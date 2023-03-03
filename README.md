@@ -1,4 +1,4 @@
-#👋 Hi, I’m @DavidJames-Tech
+# 👋 Hi, I’m @DavidJames-Tech
 ### 👀 I’m interested in Systems programming, AI/ML/Deep learning, Graphics programming and Computational mathematics
 <!---
 DavidJames-Tech/DavidJames-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
